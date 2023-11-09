@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Manual CRUD PHP](README.md)
+* [Formulario](formulario.md)
